@@ -1,2 +1,1 @@
-# rorh
-wiki for Ruby on Rails Himalayas (https://github.com/RubyNepal)
+You're probably after the [rails himalayas wiki](https://github.com/RubyNepal/rorh/wiki) or maybe [Ruby Nepal](https://www.rubynepal.org). If you're wanting to request or submit a presentation, head for the [Issues page](https://github.com/RubyNepal/rorh/issues)
