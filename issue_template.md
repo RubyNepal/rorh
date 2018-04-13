@@ -1,10 +1,16 @@
 <!--- Provide a general summary of the talk with the Title above -->
 <!--- Use [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/) for styling --> 
 
-## Session Details
-<!-- If you’ve never given a talk before, we will help you develop it and support you all the way. We have a history of helping speakers get onto the stage for the first time and trying out new ideas. -->
-<!--- If you want to speak on above Topic at RubyNepal meetup, write some details to pitch your talk. Make it as compelling and exciting as possible. -->
+## Speak or Request
 <!--- If you're suggesting a topic for a talk, tell us how it should work -->
+<!--- If you’ve never given a talk before, we will help you develop it and support you all the way. 
+<!--- We have a history of helping speakers get onto the stage for the first time and trying out new ideas. -->
+- [x] Speak (Give a presentation session)
+- [ ] Request (Suggesting a topic eager to see/learn)
+
+## Session Details
+<!--- If you want to speak on above Topic at RubyNepal meetup, write some details to pitch your talk. 
+<!--- Make it as compelling and exciting as possible. -->
 
 ## Talk Format
 <!--- What format is this talk best suited for? -->
